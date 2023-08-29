@@ -1,5 +1,12 @@
-### Hi there 👋
-
+<div align="center">     
+  
+![header](https://capsule-render.vercel.app/api?type=waving)
+### Hi there 👋  
+ <br/>
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=candy2022&show_icons=true&theme=dark)      
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hola)](https://solved.ac/hola/)
+ </div>
 <!--
 **candy2022/candy2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
